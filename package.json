@@ -1,0 +1,26 @@
+{
+  "name": "fm-del-valdarno",
+  "version": "1.0.0",
+  "description": "FM del Valdarno - app Android e iOS",
+  "main": "index.js",
+  "scripts": {
+    "build": "python3 game/build.py && python3 game/build-app.py && npx cap sync",
+    "test": "node game/test-carriera.js 2 2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/android": "^7.6.9",
+    "@capacitor/app": "^7.1.2",
+    "@capacitor/cli": "^7.6.9",
+    "@capacitor/core": "^7.6.9",
+    "@capacitor/ios": "^7.6.9",
+    "@capacitor/splash-screen": "^7.0.5",
+    "@capacitor/status-bar": "^7.0.6",
+    "@fontsource/barlow-semi-condensed": "^5.3.0"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5"
+  }
+}

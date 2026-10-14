@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FM Valdarno</string>
+    <string name="title_activity_main">FM Valdarno</string>
+    <string name="package_name">it.valdarno.fm</string>
+    <string name="custom_url_scheme">it.valdarno.fm</string>
+</resources>

@@ -1,0 +1,27 @@
+{
+  "appId": "it.valdarno.fm",
+  "appName": "FM Valdarno",
+  "webDir": "www",
+  "backgroundColor": "#1a1c23",
+  "android": {
+    "backgroundColor": "#1a1c23",
+    "adjustMarginsForEdgeToEdge": "force"
+  },
+  "ios": {
+    "backgroundColor": "#1a1c23",
+    "contentInset": "never"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1500,
+      "launchAutoHide": false,
+      "backgroundColor": "#1a1c23",
+      "showSpinner": false
+    },
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#1a1c23",
+      "overlaysWebView": false
+    }
+  }
+}

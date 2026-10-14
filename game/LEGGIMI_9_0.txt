@@ -1,0 +1,99 @@
+FM DEL VALDARNO — BUILD 9.0 "DALLA TERZA ALLA SERIE A"
+Stagione base: 2026/2027
+
+COME SI GIOCA
+- Apri index.html nel browser (funziona offline, anche da telefono).
+- Scegli il nome da allenatore e il club. Di default: Terza Categoria, girone Arezzo.
+- Premi "Continua" per avanzare di una settimana. Quando c'è una partita scegli
+  "Gioca in diretta" (cronaca minuto per minuto, cambi, mentalità, pressing)
+  oppure "Risultato immediato".
+- Il gioco salva da solo dopo ogni turno. In "Salvataggi" ci sono 3 slot e
+  l'esportazione/importazione in .json per non perdere la carriera.
+
+LA SCALATA (percorso toscano, club reali del database 2026/27)
+Terza Cat. Arezzo -> Seconda Toscana I -> Prima Toscana E -> Promozione Toscana C
+-> Eccellenza Toscana B -> Serie D girone E -> Serie C girone B -> Serie B -> Serie A
+- Promozione: 1a classificata diretta + playoff (2a-5a) nei dilettanti e in C;
+  Serie D solo la prima; Serie B prime due + playoff 3a-6a.
+- Retrocessioni: ultime 2 (ultime 3 in D, B e A). In Terza non si retrocede.
+- Ogni stagione c'è anche una coppa a eliminazione diretta.
+
+COSA GESTISCI
+- Rosa: 10 attributi (1-20), valutazione, potenziale, condizione, morale, forma,
+  statistiche, contratti con scadenza, rinnovi, vendite, rescissioni.
+- Tattica: 7 moduli, formazione su campo, panchina da 9, capitano, rigorista,
+  mentalità, pressing, ritmo, intesa di squadra.
+- Allenamento: focus di squadra settimanale, intensità (crescita contro
+  infortuni), focus individuale. I giovani crescono, dopo i 30 si cala.
+- Staff: vice, preparatore atletico, preparatore portieri, medico, osservatori,
+  direttore sportivo, responsabile giovanili. Ognuno ha effetti precisi.
+- Mercato locale: giocatori del tuo girone, di 4 club della categoria sopra e
+  4 di quella sotto, più gli svincolati. Osservazione per scoprire gli
+  attributi, trattative con controproposte, richieste d'ingaggio, prestiti,
+  offerte in arrivo per i tuoi giocatori. Finestre: estate e inverno.
+  Gli svincolati si possono prendere sempre.
+- Finanze: rimborsi/stipendi, biglietti (prezzo regolabile), sponsor,
+  merchandising, TV (dalla Serie C), premi, trasferte, iscrizione, strutture.
+- Sponsor: maglia, tecnico, cartellonistica e naming dello stadio, con
+  offerte a fisso, a bonus vittoria o a bonus promozione.
+- Società: stadio (capienza e omologazione), centro sportivo, settore
+  giovanile con leva annuale, storico stagioni e trofei.
+- Presidente: obiettivo stagionale, fiducia, budget ingaggi, fondi extra.
+  Se la fiducia crolla o i conti restano in rosso vieni esonerato.
+
+ONESTÀ SUI DATI
+- Club e gironi: dal database nazionale del progetto (873 società 2026/27).
+- Giocatori con il simbolo 📋: nome preso da elenchi pubblicati da società,
+  portali, liste di mercato e Wikipedia (3745 nomi, 162 club). NON sono la lista ufficiale dei
+  tesserati FIGC: quella non è pubblica. Il resto delle rose è generato.
+- Rose 2026/27 complete o quasi, con ruolo e anno di nascita, per tutto il
+  percorso della carriera: Terza Arezzo, Seconda Toscana I, Prima Toscana E,
+  Promozione Toscana C, Eccellenza Toscana B (fonte: dilettantiarezzo.it,
+  pagine mercato; liste confermati + arrivi, da verificare). I file originali
+  sono nella cartella fonti/.
+- Professionisti: Serie A 20/20 club, Serie B 14/20, Serie C 16/60 (rose
+  da Wikipedia aggiornate a ago-ott 2026; scartate le pagine ferme alla
+  stagione 2025/26). Serie D: Triestina e i 14 club toscani del girone E (rose da ZonaCalcioFaiDaTe / Almanacco del Calcio Toscano).
+- Pistoia (pistoiasport.com): rose parziali di 17 club dall'Eccellenza alla
+  Seconda, solo giocatori indicati come confermati o arrivati.
+- Le altre regioni del database (Lazio, Campania, Puglia, Piemonte, Umbria)
+  restano con nomi generati: non ho trovato elenchi pubblici per squadra.
+- Nomi club corretti: Postello -> Pestello, Fratticola -> Fratticciola.
+- Abilità, valori, stipendi, staff e sponsor sono simulati o inventati.
+- Il multiplayer (online.html + league-server.js) resta quello della 8.6:
+  il nuovo motore 9.0 per ora è solo in singolo.
+
+PER CHI MODIFICA IL CODICE
+- Sorgenti: src/engine.js (motore), src/ui.js (interfaccia), src/style.css.
+- Dopo una modifica: python build.py  -> rigenera index.html.
+- Importare rose: python importa-rose.py file.csv --categoria "Prima Categoria" --fonte https://...
+  CSV con ; e colonne squadra;nome;ruolo;anno_nascita[;fonte] (ruolo P/D/C/A).
+  Sostituisce la rosa precedente dei club nel file; prova prima con --dry-run.
+- Importare club: python importa-squadre-regionali.py file.csv
+  (aggiorna database, CSV, index.html e legacy-8.6.html).
+- Test del motore: node test-carriera.js 5 3
+  (5 stagioni x 3 carriere simulate). Con --boost simula una squadra
+  dominante e verifica la scalata completa fino alla Serie A.
+- legacy-8.6.html è il gioco precedente, conservato. I test 8.6 restano validi.
+
+NOVITÀ 9.7
+- Tattica: 17 ruoli specifici (es. Regista, Mezzala, Terzino spinta, Prima punta) con istruzioni per giocatore (resta in posizione / normale / libero di inserirsi); rigoristi di corner e punizioni, gol di testa e su punizione diretta.
+- Giocatori con carattere: ambizione, professionalità, temperamento, leadership. Spogliatoio con armonia, leader ed eventi a scelta (malumori, ritardi, liti).
+- Mondo vivo: esoneri degli allenatori IA, mercato tra club IA con notizie "Dal girone", promozioni e retrocessioni coerenti nel girone ogni stagione.
+
+NOVITÀ 9.8 (rose reali)
+- Serie B: 20/20 club con rosa 2026/27 (aggiunte Pisa, Avellino, Mantova, Südtirol, Vicenza, Virtus Entella).
+- Serie C: 57/60 club (aggiunte 41 rose 2026/27). Mancano Desenzano, Vado, Team Altamura (pagine fonte non raggiungibili): nomi generati.
+- Serie D girone E: aggiunta Progresso. Mancano Mezzolara, Sasso Marconi, Nuova Ternana.
+- Fonti: sport.virgilio.it/calcio/squadre/<club>/rosa (età → anno di nascita stimato), romagnasport.com per il Progresso.
+  CSV in fonti/pro_serie_b_virgilio.csv, fonti/pro_serie_c_virgilio.csv, fonti/serie_d_progresso.csv.
+- Totale database: 5180 giocatori reali in 210 club.
+
+NOVITÀ 9.9
+- Rose generate con cognomi e nomi tipici della zona del club (toscani, emiliani/veneti, lombardi/piemontesi/liguri, centro, campani, pugliesi/calabresi, siciliani, sardi) + una quota di stranieri.
+- Scheda giocatore: pulsante ✏️ per correggere nome e ruolo di qualsiasi giocatore (tuo o avversario). Il nome corretto resta nel salvataggio.
+
+NOVITÀ 10.0
+- Menu iniziale sempre visibile all'apertura: "Continua la carriera" in alto, sotto la scelta della nuova squadra in 3 passi (zona, categoria, squadra) con anteprima della rosa.
+- Si può partire da qualsiasi categoria, dalla Terza alla Serie A ("Italia: Serie D, C, B, A").
+- Dal menu Altro: "Menu principale" per tornare alla scelta squadra senza perdere la carriera.

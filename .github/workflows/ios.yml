@@ -1,0 +1,24 @@
+name: App iOS (verifica compilazione)
+
+# Compila il progetto iOS senza firma per verificare che sia a posto.
+# Per installarlo su iPhone o pubblicarlo su App Store serve un account Apple Developer:
+# vedi LEGGIMI-APP.md, sezione iOS.
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: python3 game/build.py && python3 game/build-app.py && npx cap sync ios
+      - name: Compila (senza firma)
+        working-directory: ios/App
+        run: |
+          pod install || true
+          xcodebuild -workspace App.xcworkspace -scheme App -configuration Release -sdk iphonesimulator -destination 'generic/platform=iOS Simulator' CODE_SIGNING_ALLOWED=NO build | tail -20

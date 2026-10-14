@@ -1,0 +1,426 @@
+squadra;nome;ruolo;anno_nascita;fonte
+Livorno;Filippo Tani;P;;https://en.wikipedia.org/wiki/US_Livorno_1915
+Livorno;Davide Gentile;D;;https://en.wikipedia.org/wiki/US_Livorno_1915
+Livorno;Francesco Menarini;C;;https://en.wikipedia.org/wiki/US_Livorno_1915
+Livorno;Matteo Bachini;D;;https://en.wikipedia.org/wiki/US_Livorno_1915
+Livorno;Andrea Bacciardi;C;;https://en.wikipedia.org/wiki/US_Livorno_1915
+Livorno;Koffi Djidji;D;;https://en.wikipedia.org/wiki/US_Livorno_1915
+Livorno;Mattia Aramu;C;;https://en.wikipedia.org/wiki/US_Livorno_1915
+Livorno;Diego Peralta;C;;https://en.wikipedia.org/wiki/US_Livorno_1915
+Livorno;Giacomo Gabbiani;A;;https://en.wikipedia.org/wiki/US_Livorno_1915
+Livorno;Lorenzo Malagrida;C;;https://en.wikipedia.org/wiki/US_Livorno_1915
+Livorno;Samuel Di Carmine;A;;https://en.wikipedia.org/wiki/US_Livorno_1915
+Livorno;Tommaso Mancini;A;;https://en.wikipedia.org/wiki/US_Livorno_1915
+Livorno;Tommaso Arrigoni;C;;https://en.wikipedia.org/wiki/US_Livorno_1915
+Livorno;Samuele Regazzetti;D;;https://en.wikipedia.org/wiki/US_Livorno_1915
+Livorno;Manuele Malotti;A;;https://en.wikipedia.org/wiki/US_Livorno_1915
+Livorno;Danko Ciobanu;P;;https://en.wikipedia.org/wiki/US_Livorno_1915
+Livorno;Jacopo Marinari;A;;https://en.wikipedia.org/wiki/US_Livorno_1915
+Livorno;Alessio Rizza;D;;https://en.wikipedia.org/wiki/US_Livorno_1915
+Livorno;Luca Bonassi;C;;https://en.wikipedia.org/wiki/US_Livorno_1915
+Livorno;Tommaso Pittino;D;;https://en.wikipedia.org/wiki/US_Livorno_1915
+Livorno;Nicola Falasco;D;;https://en.wikipedia.org/wiki/US_Livorno_1915
+Livorno;Jesus Christ Mawete;C;;https://en.wikipedia.org/wiki/US_Livorno_1915
+Livorno;Luca Alberto Calabrò;C;;https://en.wikipedia.org/wiki/US_Livorno_1915
+Livorno;Miguel Ángel Martínez;P;;https://en.wikipedia.org/wiki/US_Livorno_1915
+Perugia;Radosław Żelezny;P;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Moustapha Yabre;D;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Alessandro Tozzuolo;D;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Diego Stramaccioni;D;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Matteo Angeli;D;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Andrea Cisco;C;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Riccardo Ladinetti;C;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Antonio Sabbatani;A;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Luigi Canotto;A;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Matteo Borsoi;D;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Luca Moro;P;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Ettore Quirini;D;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Dimitar Papazov;D;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Paolo Bartolomei;C;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Christian Dottori;C;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Giuseppe Carriero;C;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Giorgio Tumbarello;C;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Linas Mėgelaitis;C;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Davide Riccardi;D;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Gabriele Conti;C;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Christian Langella;C;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Giacomo Cavallini;D;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Sebastian Strappini;P;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Pietro Rondolini;D;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Matteo Cortesi;C;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Elvis Kabashi;C;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Guillaume Renault;D;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Perugia;Pelle van Amersfoort;A;;https://en.wikipedia.org/wiki/AC_Perugia_Calcio
+Pescara;Enis Ujkaj;P;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Nicolò Profeta;P;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Ivan Saio;P;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Riccardo Capellini;D;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Gaetano Letizia;D;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Jacopo La Barba;D;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Matteo Milan;D;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Francesco Donati;D;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Filippo Pellacani;D;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Lapo Valori;D;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Matteo Motta;D;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Emanuele Troiano;D;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Giorgio Altare;D;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Erdis Kraja;C;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Lorenzo Meazzi;C;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Leonardo Graziani;C;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Luca Valzania;C;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Massimo Gatto;C;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Filippo Guccione;C;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Bilal Erradi;C;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Christian D'Errico;C;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Giuseppe Saccomanni;C;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Victor Eletu;C;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Davide Merola;A;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Gianmarco Cangiano;A;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Andrea Ferraris;A;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Pablo Vitali;A;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Luigi Morazzini;A;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Michael Zeppieri;A;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Pescara;Giacomo Parigi;A;;https://en.wikipedia.org/wiki/Delfino_Pescara_1936
+Spezia;Alessandro Micai;P;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Damiano Cancellieri;D;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Joselito;C;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Riccardo Sganzerla;D;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Giuseppe Di Serio;A;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Aldo Florenzi;C;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Simone Mazzocchi;A;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Alessandro Cardinali;A;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Motiejus Šapola;D;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Galo Capomaggio;C;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Hamse Shagaxle;C;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Simone Bastoni;C;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Pietro Candelari;C;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Giuseppe Ciocci;P;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Sergio Kalaj;D;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Carmelo Limonelli;C;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Andrea Bertoncini;D;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Edoardo Soleri;A;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Francesco Cassata;C;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Jérémy Oyono;D;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Emanuele Adamo;C;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Kevin Cannavò;C;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Aleš Matějů;D;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Mattia Benvenuto;D;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Jonathan Spedalieri;D;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Simone Giorgeschi;D;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Kevin Bright;C;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Mert Durmush;A;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Riccardo Fontanarosa;A;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Petko Hristov;D;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Spezia;Denis Cazzadori;A;;https://en.wikipedia.org/wiki/Spezia_Calcio
+Reggiana;Jacopo Furlan;P;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Alessandro Tripaldelli;D;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Paolo Rozzio;D;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Lorenzo Crisetig;C;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Kristofér Jónsson;C;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Thomas Henry;A;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Francesco Borriello;P;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Matteo Battistini;D;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Danilo Quaranta;D;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Lorenzo Libutti;D;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Damiano Basili;C;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Michele Castagnetti;C;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Francesco Vallarelli;C;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Matteo Sorzi;P;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Matteo Rover;C;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Leon Šipoš;A;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Massimo Bertagnoli;C;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Edoardo Cavaliere;A;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Fabio Ponsi;D;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Simone Bonetti;D;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Matteo Tessitori;C;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Samuel Ledain;C;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Natan Girma;A;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Ashton Ezinwa;D;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Manolo Portanova;C;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Reggiana;Tomas Lepri;D;;https://en.wikipedia.org/wiki/AC_Reggiana_1919
+Grosseto;Alessio Marcu;P;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Samuel Postorino;D;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Lorenzo Sabattini;C;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Francesco Cerretelli;C;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Filippo Gerardini;A;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Ferdinando Mastroianni;A;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Pietro Fiorini;C;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Daniele Menicucci;P;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Umberto Grandinetti;D;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Kauan Savini;C;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Marco Fiorani;C;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Jacopo Lorenzini;A;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Alberto Montini;D;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Filippo Bellini;C;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Lorenzo Gonnelli;D;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Matteo Cabella;P;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Federico Ampollini;D;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Lorenzo Alfani;D;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Duccio Brenna;D;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Lorenzo Andreoli;C;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Alessio Ciraudo;D;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Giovanni Leoni;P;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Matteo Mannelli;D;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Gabriele Di Paola;D;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Sergio Cosentino;A;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Emmanuele Lorenzelli;C;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Daniele Amedeo;C;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Adam Hasani;A;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Tommaso Della Mora;D;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Enea Pitti;D;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Tommaso Fantacci;C;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Grosseto;Edoardo Vascotto;C;;https://en.wikipedia.org/wiki/US_Grosseto_1912
+Ravenna;Joyce Anacoura;P;;https://en.wikipedia.org/wiki/Ravenna_FC
+Ravenna;Giulio Donati;D;;https://en.wikipedia.org/wiki/Ravenna_FC
+Ravenna;Luca Falbo;D;;https://en.wikipedia.org/wiki/Ravenna_FC
+Ravenna;Matteo Mandorlini;C;;https://en.wikipedia.org/wiki/Ravenna_FC
+Ravenna;Matteo Solini;D;;https://en.wikipedia.org/wiki/Ravenna_FC
+Ravenna;Cristiano Bani;D;;https://en.wikipedia.org/wiki/Ravenna_FC
+Ravenna;Stefano Okaka;A;;https://en.wikipedia.org/wiki/Ravenna_FC
+Ravenna;Matteo Rossetti;C;;https://en.wikipedia.org/wiki/Ravenna_FC
+Ravenna;Matteo Motti;A;;https://en.wikipedia.org/wiki/Ravenna_FC
+Ravenna;Nicolas Viola;C;;https://en.wikipedia.org/wiki/Ravenna_FC
+Ravenna;Paolo Rrapaj;C;;https://en.wikipedia.org/wiki/Ravenna_FC
+Ravenna;Tommaso Stagni;P;;https://en.wikipedia.org/wiki/Ravenna_FC
+Ravenna;Joshua Tenkorang;C;;https://en.wikipedia.org/wiki/Ravenna_FC
+Ravenna;Lorenzo Lonardi;C;;https://en.wikipedia.org/wiki/Ravenna_FC
+Ravenna;Cristian Spini;A;;https://en.wikipedia.org/wiki/Ravenna_FC
+Ravenna;Giacomo Calandrini;C;;https://en.wikipedia.org/wiki/Ravenna_FC
+Ravenna;Adriano Esposito;D;;https://en.wikipedia.org/wiki/Ravenna_FC
+Ravenna;Manuel Fischnaller;A;;https://en.wikipedia.org/wiki/Ravenna_FC
+Ravenna;Giacomo Poluzzi;P;;https://en.wikipedia.org/wiki/Ravenna_FC
+Ravenna;Francesco Corsinelli;C;;https://en.wikipedia.org/wiki/Ravenna_FC
+Ravenna;Alessandro Bianconi;D;;https://en.wikipedia.org/wiki/Ravenna_FC
+Ravenna;Lorenzo Da Pozzo;C;;https://en.wikipedia.org/wiki/Ravenna_FC
+Ravenna;Ronaldinho;C;;https://en.wikipedia.org/wiki/Ravenna_FC
+Latina;Matteo Basti;P;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Emanuel Ercolano;D;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Mattia Porro;C;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Antonio De Cristofaro;D;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Matteo Bruscagin;D;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Bernardo Calabrese;D;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Jaime Báez;C;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Gianmarco Castorri;D;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Youssouph Cheikh Sylla;A;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Alessio Riccardi;C;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Filippo Marenco;D;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Luca Gagliano;A;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Christian Sussi;D;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Gabriele Di Giovannantonio;A;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Sonny D'Angelo;C;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Vincenzo Plescia;A;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Rodrigo De Ciancio;C;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Giulio Parodi;D;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Luigi Carillo;D;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Iacopo Lipani;C;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Cheick Keita;D;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Davide De Marchi;D;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Davide Mastrantonio;P;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Giacomo Tomaselli;A;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Antonio Cioffi;A;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Christian Sbaccanti;P;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Latina;Andrea Lo Bianco;A;;https://en.wikipedia.org/wiki/Latina_Calcio_1932
+Campobasso;Andrea Spurio;P;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Federico Papini;D;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Christian Celesia;D;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Mario Gargiulo;C;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Isaac;A;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Rocco Di Vico;C;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Matteo Stoppa;A;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Lorenzo Carfora;D;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Alfredo Bifulco;A;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Roberto Pierno;D;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Leonardo Blasi;C;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Riccardo Fogliata;C;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Roberts Apsīts;P;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Alessandro Pellitteri;C;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Antonio Martínez;P;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Claudio Cristallo;D;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Francesco Maisto;C;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Lorenzo Coccia;D;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Emmanuele Salines;D;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Mattia Capoferri;D;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Davide Agazzi;C;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Antonello Serra;C;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Simone Leonardi;A;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Francesco Parisi;D;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Cristian Aragona;D;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Alessandro Galeandro;A;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Gabriele Corbo;D;;https://en.wikipedia.org/wiki/Campobasso_FC
+Campobasso;Christian Muzi;P;;https://en.wikipedia.org/wiki/Campobasso_FC
+Catania;Filippo Rinaldi;P;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Gabriele Pagliai;D;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Salvatore Aloi;C;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Marco Perrotta;D;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Andrea Allegretto;D;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Giovanni Bruzzaniti;A;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Salvatore Caturano;A;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Emanuele Cicerelli;A;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Matteo Di Gennaro;D;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Alessandro Quaini;C;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Alessandro Raimo;D;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Daniele Donnarumma;D;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Michael Liguori;A;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Gabriel Lunetta;C;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Christian Torre;A;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Tommaso Di Marco;C;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Andrea Corbari;C;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Edoardo Masciangelo;D;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Andrea Dini;P;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Cristian De Falco;P;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Mario Ierardi;D;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Nicolò Catania;A;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Catello Amendola;C;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Flavio Russo;A;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Eddy Cabianca;D;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Fabrizio Caligara;C;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Massimo Coda;A;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Roberto Insigne;A;;https://en.wikipedia.org/wiki/Catania_FC
+Catania;Gianfranco Quiroz;A;;https://en.wikipedia.org/wiki/Catania_FC
+Crotone;Davide Merelli;P;;https://en.wikipedia.org/wiki/FC_Crotone
+Crotone;Lorenzo Russo;C;;https://en.wikipedia.org/wiki/FC_Crotone
+Crotone;Iker Torres;C;;https://en.wikipedia.org/wiki/FC_Crotone
+Crotone;Bogdan Stăuciuc;A;;https://en.wikipedia.org/wiki/FC_Crotone
+Crotone;Antonino Musso;A;;https://en.wikipedia.org/wiki/FC_Crotone
+Crotone;Antonio Pio Martino;P;;https://en.wikipedia.org/wiki/FC_Crotone
+Crotone;Nicolò Armini;D;;https://en.wikipedia.org/wiki/FC_Crotone
+Crotone;Gesualdo Napolitano;C;;https://en.wikipedia.org/wiki/FC_Crotone
+Crotone;Diego Russo;C;;https://en.wikipedia.org/wiki/FC_Crotone
+Crotone;Mattia Tordini;A;;https://en.wikipedia.org/wiki/FC_Crotone
+Crotone;William Feola;D;;https://en.wikipedia.org/wiki/FC_Crotone
+Crotone;Fabrizio Marazzotti;C;;https://en.wikipedia.org/wiki/FC_Crotone
+Crotone;Alberto Lucano;P;;https://en.wikipedia.org/wiki/FC_Crotone
+Crotone;Filippo Groppelli;D;;https://en.wikipedia.org/wiki/FC_Crotone
+Crotone;Walter Guerra;D;;https://en.wikipedia.org/wiki/FC_Crotone
+Crotone;Gregorio Tanco;D;;https://en.wikipedia.org/wiki/FC_Crotone
+Crotone;Pedro Rodríguez;C;;https://en.wikipedia.org/wiki/FC_Crotone
+Crotone;Luis Pierangeli;D;;https://en.wikipedia.org/wiki/FC_Crotone
+Crotone;Angelo Veltri;D;;https://en.wikipedia.org/wiki/FC_Crotone
+Crotone;Michele Vrenna;A;;https://en.wikipedia.org/wiki/FC_Crotone
+Crotone;Filippo Grosso;C;;https://en.wikipedia.org/wiki/FC_Crotone
+Crotone;Zak Ruggiero;C;;https://en.wikipedia.org/wiki/FC_Crotone
+Crotone;Arthur Spadoni;A;;https://en.wikipedia.org/wiki/FC_Crotone
+Crotone;Marco Zunno;A;;https://en.wikipedia.org/wiki/FC_Crotone
+Crotone;Francesco Crapisto;C;;https://en.wikipedia.org/wiki/FC_Crotone
+Cosenza;Thomas Pompei;P;;https://en.wikipedia.org/wiki/Cosenza_Calcio
+Cosenza;Baldovino Cimino;D;;https://en.wikipedia.org/wiki/Cosenza_Calcio
+Cosenza;Enrico Giannini;C;;https://en.wikipedia.org/wiki/Cosenza_Calcio
+Cosenza;Răzvan Pașcalău;D;;https://en.wikipedia.org/wiki/Cosenza_Calcio
+Cosenza;Nicolò Contiliano;C;;https://en.wikipedia.org/wiki/Cosenza_Calcio
+Cosenza;Sofiane Achour;A;;https://en.wikipedia.org/wiki/Cosenza_Calcio
+Cosenza;Michele Emmausso;A;;https://en.wikipedia.org/wiki/Cosenza_Calcio
+Cosenza;Mattia Almaviva;A;;https://en.wikipedia.org/wiki/Cosenza_Calcio
+Cosenza;Andrea Cogoni;D;;https://en.wikipedia.org/wiki/Cosenza_Calcio
+Cosenza;Daniele Quieto;C;;https://en.wikipedia.org/wiki/Cosenza_Calcio
+Cosenza;Antonio D'Alena;C;;https://en.wikipedia.org/wiki/Cosenza_Calcio
+Cosenza;Diego Ragone;C;;https://en.wikipedia.org/wiki/Cosenza_Calcio
+Cosenza;Carmelo Rantuccio;P;;https://en.wikipedia.org/wiki/Cosenza_Calcio
+Cosenza;Paolo Dametto;D;;https://en.wikipedia.org/wiki/Cosenza_Calcio
+Cosenza;Alessandro Dalmazzi;D;;https://en.wikipedia.org/wiki/Cosenza_Calcio
+Cosenza;Edoardo Contiero;C;;https://en.wikipedia.org/wiki/Cosenza_Calcio
+Cosenza;Antonio Barone;D;;https://en.wikipedia.org/wiki/Cosenza_Calcio
+Cosenza;Alessandro Pozzi;A;;https://en.wikipedia.org/wiki/Cosenza_Calcio
+Cosenza;Lucio Bonofiglio;D;;https://en.wikipedia.org/wiki/Cosenza_Calcio
+Cosenza;Pietro Ciotti;D;;https://en.wikipedia.org/wiki/Cosenza_Calcio
+Cosenza;Filippo Palazzino;C;;https://en.wikipedia.org/wiki/Cosenza_Calcio
+Cosenza;Massimo Zilli;A;;https://en.wikipedia.org/wiki/Cosenza_Calcio
+Carpi;Alessandro Scacchetti;P;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Mattia Maggio;D;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Mattia Rigo;D;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Davide Zagnoni;D;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Matteo Figoli;C;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Andrea Astrologo;C;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Tommaso Cecotti;D;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Niccolò Bagatti;C;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Martin Montipò;C;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Federico Casarini;C;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Filippo Puletto;C;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Alex Perta;P;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Leonardo Zarpellon;C;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Luca Nesi;D;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Lorenzo Lombardi;D;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Tommaso Carcani;A;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Matteo Rossini;D;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Marco Forapani;C;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Tito Gasperini;P;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Leonardo Morosini;C;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Fabio Desole;D;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Riccardo Gatti;D;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Abdoulaye Sall;A;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Vincenzo Vitale;A;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Rodrick Tcheuna;D;;https://en.wikipedia.org/wiki/AC_Carpi
+Carpi;Lorenzo Pracek;D;;https://en.wikipedia.org/wiki/AC_Carpi
+Lecco;Joaquin Dalmasso;P;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Lukas Sinn;D;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Matteo Arena;D;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Andrea Mallamo;C;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Giuseppe Battimelli;A;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Stefano Bonaiti;C;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Alessandro Galeandro;A;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Thomas Zouaghi;P;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Tommaso Bordoni;D;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Alexander Murillo;A;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Gabriel Pellegrino;C;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Marco Litti;D;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Lorenzo Mihali;A;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Antonio Metlika;C;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Thomas Vettorel;P;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Riccardo Maria Meleddu;C;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Silvan Sidler;D;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Federico Arena;C;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Daniele Triacca;D;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Nicola Fasan;A;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Oliver Urso;C;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Enrico Di Gesù;C;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Davide Grassini;C;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Jason Anastasini;C;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Amney Moutassime;A;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Marwane Kritta;D;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Sean Parker;A;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Lecco;Giulio Manetti;D;;https://en.wikipedia.org/wiki/Calcio_Lecco_1912
+Trento;Sergio Barlocco;P;;https://en.wikipedia.org/wiki/AC_Trento_1921
+Trento;Andrea Trainotti;D;;https://en.wikipedia.org/wiki/AC_Trento_1921
+Trento;Sheriff Kassama;D;;https://en.wikipedia.org/wiki/AC_Trento_1921
+Trento;Marco Fossati;C;;https://en.wikipedia.org/wiki/AC_Trento_1921
+Trento;Nicola Dalmonte;C;;https://en.wikipedia.org/wiki/AC_Trento_1921
+Trento;Giacomo Benedetti;C;;https://en.wikipedia.org/wiki/AC_Trento_1921
+Trento;Christian Capone;A;;https://en.wikipedia.org/wiki/AC_Trento_1921
+Trento;Francesco Benassai;D;;https://en.wikipedia.org/wiki/AC_Trento_1921
+Trento;Zylyf Muça;D;;https://en.wikipedia.org/wiki/AC_Trento_1921
+Trento;Christian Aucelli;C;;https://en.wikipedia.org/wiki/AC_Trento_1921
+Trento;Amer Mehić;C;;https://en.wikipedia.org/wiki/AC_Trento_1921
+Trento;Filippo Frison;D;;https://en.wikipedia.org/wiki/AC_Trento_1921
+Trento;Riccardo Fiamozzi;D;;https://en.wikipedia.org/wiki/AC_Trento_1921
+Trento;Aldo Genco;C;;https://en.wikipedia.org/wiki/AC_Trento_1921
+Trento;Mattia Maffei;D;;https://en.wikipedia.org/wiki/AC_Trento_1921
+Trento;Gabriele Calzà;D;;https://en.wikipedia.org/wiki/AC_Trento_1921
+Trento;Marco Garetto;C;;https://en.wikipedia.org/wiki/AC_Trento_1921
+Trento;Federico Caia;A;;https://en.wikipedia.org/wiki/AC_Trento_1921
+Trento;Francesco Sartori;A;;https://en.wikipedia.org/wiki/AC_Trento_1921
+Trento;Andrea Sodero;C;;https://en.wikipedia.org/wiki/AC_Trento_1921
+Pro Vercelli;Pietro Passador;P;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Luca Coccolo;D;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Luc van Koeverden;D;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Adam Boufandar;C;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Zaid El Bakkali;C;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Mohamed Mallahi;A;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Angelo Burruano;C;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Marco Bertoli;A;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Mattia Rutigliano;C;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Ousseynou Sow;A;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Ilario Iotti;C;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Niccolò Ronchi;D;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Leonardo Piran;C;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Lorenzo Tarantola;D;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Mattia Iori;A;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Clemente Perotti;C;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Marco Pagliari;D;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Gianmario Comi;A;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Alessandro Carosso;D;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Andrea Moretti;D;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Cristiano Furno;D;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Antonio Satriano;A;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Nicolò Vaccarezza;P;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Mattia Del Favero;P;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Gianluca Clemente;D;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
+Pro Vercelli;Alessandro Livieri;P;;https://en.wikipedia.org/wiki/FC_Pro_Vercelli_1892
